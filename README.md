@@ -2,7 +2,29 @@
 
 Interface to WhatsApp Messenger
 
+**Read the [wiki](https://github.com/mgp25/WhatsAPI-Official/wiki)** and previous issues before opeining a new one! Maybe your issue is already answered.
+
+**[WhatsApp incoming updates log](https://github.com/mgp25/WhatsAPI-Official/wiki/WhatsApp-incoming-updates)**
+
 ----------
+
+### Special thanks
+
+I would like to thank all those who have made this project goes forward. First I have to thank [@shirioko](https://github.com/shirioko/) aka hero, when I came to the project, i knew nothing and introduced me to the project. He has been responsible of the API for a long time and he always be a hero! Now it's my turn and i hope to do as good as i can to make this API better.
+
+And I also want to thank all the users that are collaborating with me and are making such good work:
+
+- [pastoso](https://github.com/pastoso)
+- [CODeRUS](https://github.com/CODeRUS)
+- [GitsUp](https://github.com/GitsUp)
+- [SikiFn](https://github.com/SikiFn)
+- [Dennobaby](https://github.com/Dennobaby)
+- [0xTryCatch](https://github.com/0xTryCatch)
+
+[![Gratipay](http://img.shields.io/badge/Donate-Gratipay-brightgreen.svg)](https://gratipay.com/mgp25/) [![Paypal](https://www.paypalobjects.com/es_XC/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=me%40mgp25%2ecom&lc=US&item_name=WhatsAPI&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted)
+
+**Bitcoin:** 15NejBDahfe1eLAPSJh4iMfYLHYuKDrwJ2
+
 
 ### Update October 7th, 2014
 
